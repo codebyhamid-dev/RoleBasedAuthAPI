@@ -26,16 +26,4 @@ This project demonstrates secure user authentication and authorization across di
 
 ---
 
-## 🏗️ Project Structure
-
-RoleBasedAuthAPI/
-│
-├── Controllers/ # API controllers (Auth, User, etc.)
-├── Models/ # Entity and DTO models
-├── Services/ # Business logic and helpers
-├── Data/ # DbContext and Seed Data
-├── Middleware/ # Custom middleware (if any)
-├── appsettings.json # Configuration and JWT settings
-└── Program.cs # Application entry point
-
 <img width="742" height="607" alt="image" src="https://github.com/user-attachments/assets/bca824fb-e9a0-4e5b-9c4f-e1fe749d7ed0" />
